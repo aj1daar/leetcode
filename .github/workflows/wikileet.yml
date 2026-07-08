@@ -1,0 +1,21 @@
+name: WikiLeet Automation
+
+on:
+  push:
+    branches:
+      - main  # Triggers whenever your extension pushes to main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run WikiLeet Compiler
+        uses: Zanger67/WikiLeet@main
+        with:
+          username: 'aj1daar' # Your LeetCode username
+          # Points to the directory where your extension drops the files
+          # Set to "." since the extension drops them straight into the root
+          dir: '.'
