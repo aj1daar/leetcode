@@ -1,5 +1,5 @@
 # leetcode
-Auto-tracked Leetcode repo (God Bless)
+Auto-tracked Leetcode repo using WikiLeet and LeetHub 3-0.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
