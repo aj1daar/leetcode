@@ -48,3 +48,19 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 217 | [Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)                                                         | Easy    | B75, N150 | [solution](<markdowns/_217. Contains Duplicate.md>)                           | java        |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aj1daar/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aj1daar/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aj1daar/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+<!---LeetCode Topics End-->
