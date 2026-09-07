@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/aj1daar/)** (4 solved)
+# **[LeetCode Records](https://leetcode.com/u/aj1daar/)** (5 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -33,7 +33,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 
 ------
 
-[Hash Table](<markdowns/by_topic/Hash Table.md>), [Array](<markdowns/by_topic/Array.md>), [Linked List](<markdowns/by_topic/Linked List.md>), [Math](<markdowns/by_topic/Math.md>), [Recursion](<markdowns/by_topic/Recursion.md>), [String](<markdowns/by_topic/String.md>), [Sliding Window](<markdowns/by_topic/Sliding Window.md>), [Sorting](<markdowns/by_topic/Sorting.md>)
+[Array](<markdowns/by_topic/Array.md>), [Hash Table](<markdowns/by_topic/Hash Table.md>), [Linked List](<markdowns/by_topic/Linked List.md>), [Math](<markdowns/by_topic/Math.md>), [Recursion](<markdowns/by_topic/Recursion.md>), [String](<markdowns/by_topic/String.md>), [Sliding Window](<markdowns/by_topic/Sliding Window.md>), [Binary Search](<markdowns/by_topic/Binary Search.md>), [Divide and Conquer](<markdowns/by_topic/Divide and Conquer.md>), [Sorting](<markdowns/by_topic/Sorting.md>)
 
 ------
 
@@ -45,22 +45,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 |   1 | [Two Sum](<https://leetcode.com/problems/two-sum>)                                                                               | Easy    | B75, N150 | [solution](<markdowns/_1. Two Sum.md>)                                        | java        |
 |   2 | [Add Two Numbers](<https://leetcode.com/problems/add-two-numbers>)                                                               | Medium  | N150      | [solution](<markdowns/_2. Add Two Numbers.md>)                                | java        |
 |   3 | [Longest Substring Without Repeating Characters](<https://leetcode.com/problems/longest-substring-without-repeating-characters>) | Medium  | B75, N150 | [solution](<markdowns/_3. Longest Substring Without Repeating Characters.md>) | java        |
+|   4 | [Median of Two Sorted Arrays](<https://leetcode.com/problems/median-of-two-sorted-arrays>)                                       | Hard    | N150      | [solution](<markdowns/_4. Median of Two Sorted Arrays.md>)                    | java        |
 | 217 | [Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)                                                         | Easy    | B75, N150 | [solution](<markdowns/_217. Contains Duplicate.md>)                           | java        |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/aj1daar/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/aj1daar/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/aj1daar/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-<!---LeetCode Topics End-->
