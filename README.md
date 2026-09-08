@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/aj1daar/)** (5 solved)
+# **[LeetCode Records](https://leetcode.com/u/aj1daar/)** (6 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -33,7 +33,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 
 ------
 
-[Array](<markdowns/by_topic/Array.md>), [Hash Table](<markdowns/by_topic/Hash Table.md>), [Linked List](<markdowns/by_topic/Linked List.md>), [Math](<markdowns/by_topic/Math.md>), [Recursion](<markdowns/by_topic/Recursion.md>), [String](<markdowns/by_topic/String.md>), [Sliding Window](<markdowns/by_topic/Sliding Window.md>), [Binary Search](<markdowns/by_topic/Binary Search.md>), [Divide and Conquer](<markdowns/by_topic/Divide and Conquer.md>), [Sorting](<markdowns/by_topic/Sorting.md>)
+[Array](<markdowns/by_topic/Array.md>), [Hash Table](<markdowns/by_topic/Hash Table.md>), [String](<markdowns/by_topic/String.md>), [Linked List](<markdowns/by_topic/Linked List.md>), [Math](<markdowns/by_topic/Math.md>), [Recursion](<markdowns/by_topic/Recursion.md>), [Sliding Window](<markdowns/by_topic/Sliding Window.md>), [Binary Search](<markdowns/by_topic/Binary Search.md>), [Divide and Conquer](<markdowns/by_topic/Divide and Conquer.md>), [Two Pointers](<markdowns/by_topic/Two Pointers.md>), [Dynamic Programming](<markdowns/by_topic/Dynamic Programming.md>), [Manacher](<markdowns/by_topic/Manacher.md>), [Sorting](<markdowns/by_topic/Sorting.md>)
 
 ------
 
@@ -46,26 +46,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 |   2 | [Add Two Numbers](<https://leetcode.com/problems/add-two-numbers>)                                                               | Medium  | N150      | [solution](<markdowns/_2. Add Two Numbers.md>)                                | java        |
 |   3 | [Longest Substring Without Repeating Characters](<https://leetcode.com/problems/longest-substring-without-repeating-characters>) | Medium  | B75, N150 | [solution](<markdowns/_3. Longest Substring Without Repeating Characters.md>) | java        |
 |   4 | [Median of Two Sorted Arrays](<https://leetcode.com/problems/median-of-two-sorted-arrays>)                                       | Hard    | N150      | [solution](<markdowns/_4. Median of Two Sorted Arrays.md>)                    | java        |
+|   5 | [Longest Palindromic Substring](<https://leetcode.com/problems/longest-palindromic-substring>)                                   | Medium  | B75, N150 | [solution](<markdowns/_5. Longest Palindromic Substring.md>)                  | java        |
 | 217 | [Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)                                                         | Easy    | B75, N150 | [solution](<markdowns/_217. Contains Duplicate.md>)                           | java        |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0005-longest-palindromic-substring](https://github.com/aj1daar/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0005-longest-palindromic-substring](https://github.com/aj1daar/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0005-longest-palindromic-substring](https://github.com/aj1daar/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
-## Manacher
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0005-longest-palindromic-substring](https://github.com/aj1daar/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
-<!---LeetCode Topics End-->
