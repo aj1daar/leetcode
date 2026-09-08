@@ -49,3 +49,23 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 217 | [Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)                                                         | Easy    | B75, N150 | [solution](<markdowns/_217. Contains Duplicate.md>)                           | java        |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aj1daar/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aj1daar/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aj1daar/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aj1daar/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+<!---LeetCode Topics End-->
