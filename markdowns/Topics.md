@@ -6,7 +6,7 @@
 
 - [Array](<by_topic/Array.md>) (3 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (3 completed)
-- [String](<by_topic/String.md>) (2 completed)
+- [String](<by_topic/String.md>) (3 completed)
 - [Linked List](<by_topic/Linked List.md>) (1 completed)
 - [Math](<by_topic/Math.md>) (1 completed)
 - [Recursion](<by_topic/Recursion.md>) (1 completed)
@@ -16,4 +16,6 @@
 - [Two Pointers](<by_topic/Two Pointers.md>) (1 completed)
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (1 completed)
 - [Manacher](<by_topic/Manacher.md>) (1 completed)
+- [Stack](<by_topic/Stack.md>) (1 completed)
+- [Bracket Sequences](<by_topic/Bracket Sequences.md>) (1 completed)
 - [Sorting](<by_topic/Sorting.md>) (1 completed)
